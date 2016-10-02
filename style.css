@@ -18,3 +18,23 @@ margin: 0 auto;
 color:red;
 
 }
+#image_list
+{
+  list-style: none;
+
+  width:600px;
+  height: 400px;
+  margin:inherit;
+}
+.image
+{
+  display: none;
+}
+#image_container
+{
+  width:800px;
+  height: 500px;
+  margin:auto;
+  overflow: hidden;
+  border: 1px solid black;
+}
